@@ -1,0 +1,13 @@
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\obj\Debug\GroceryApp.csproj.AssemblyReference.cache
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\obj\Debug\GroceryApp.Form1.resources
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\obj\Debug\GroceryApp.Properties.Resources.resources
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\obj\Debug\GroceryApp.csproj.GenerateResource.cache
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\obj\Debug\GroceryApp.csproj.CoreCompileInputs.cache
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\bin\Debug\GroceryApp.exe.config
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\bin\Debug\GroceryApp.exe
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\bin\Debug\GroceryApp.pdb
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\obj\Debug\GroceryApp.csproj.Up2Date
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\obj\Debug\GroceryApp.exe
+C:\Users\Jonilla Jane\source\repos\GroceryApp\GroceryApp\obj\Debug\GroceryApp.pdb
